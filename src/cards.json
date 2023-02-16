@@ -1,0 +1,326 @@
+[
+    {
+        "id": 0,
+        "name": "Gå",
+        "description": "Avlöning! Laget tilldelas ett poäng.",
+        "color": "none",
+        "symbol": "arrow.png",
+        "price": "none"
+    },
+   {
+        "id": 1,
+        "name": "Västerlånggatan",
+        "description": "Åk dit och ta en enhet!",
+        "color": "brown",
+        "symbol": "none",
+        "price": "1.200 poäng"
+    },
+    {
+        "id": 2,
+        "name": "Allmänning",
+        "description": "Hitta en park och ta en hetssnus.",
+        "color": "none",
+        "symbol": "none",
+        "price": "none"
+    },
+    {
+        "id": 3,
+        "name": "Hornsgatan",
+        "description": "Åk dit och ta en enhet!",
+        "color": "brown",
+        "symbol": "none",
+        "price": "1.200 poäng"
+    },
+    {
+        "id": 4,
+        "name": "Betala inkomstskatt",
+        "description": "Ibland måste man bara betala.",
+        "color": "none",
+        "symbol": "none",
+        "price": "none"
+    },
+    {
+        "id": 5,
+        "name": "Södra station",
+        "description": "Åk dit och ta en enhet!",
+        "color": "none",
+        "symbol": "train.png",
+        "price": "4.000 poäng"
+    },
+    {
+        "id": 6,
+        "name": "Folkungagatan",
+        "description": "Åk dit och ta en enhet!",
+        "color": "blue",
+        "symbol": "none",
+        "price": "2.000 poäng"
+    },
+    {
+        "id": 7,
+        "name": "Chans",
+        "description": "none",
+        "color": "none",
+        "symbol": "questionmark.png",
+        "price": "none"
+    },
+    {
+        "id": 8,
+        "name": "Götgatan",
+        "description": "Åk dit och ta en enhet!",
+        "color": "blue",
+        "symbol": "none",
+        "price": "2.000 poäng"
+    },
+    {
+        "id": 9,
+        "name": "Ringvägen",
+        "description": "Åk dit och ta en enhet!",
+        "color": "blue",
+        "symbol": "none",
+        "price": "2.400 poäng"
+    },
+    {
+        "id": 10,
+        "name": "På besök i fängelset",
+        "description": "none",
+        "color": "none",
+        "symbol": "none",
+        "price": "none"
+    },
+    {
+        "id": 11,
+        "name": "S:t Eriksgatan",
+        "description": "Åk dit och ta en enhet!",
+        "color": "pink",
+        "symbol": "none",
+        "price": "2.800 poäng"
+    },
+    {
+        "id": 12,
+        "name": "Elverket",
+        "description": "none",
+        "color": "none",
+        "symbol": "none",
+        "price": "3.000 poäng"
+    },
+    {
+        "id": 13,
+        "name": "Odengatan",
+        "description": "Åk dit och ta en enhet!",
+        "color": "pink",
+        "symbol": "none",
+        "price": "2.800 poäng"
+    },
+    {
+        "id": 14,
+        "name": "Valhallavägen",
+        "description": "Åk dit och ta en enhet!",
+        "color": "pink",
+        "symbol": "none",
+        "price": "3.200 poäng"
+    },
+    {
+        "id": 15,
+        "name": "Östra station",
+        "description": "Åk dit och ta en enhet!",
+        "color": "none",
+        "symbol": "train.png",
+        "price": "4.000 poäng"
+    },
+    {
+        "id": 16,
+        "name": "Sturegatan",
+        "description": "Åk dit och ta en enhet!",
+        "color": "orange",
+        "symbol": "none",
+        "price": "3.600 poäng"
+    },
+    {
+        "id": 17,
+        "name": "Allmänning",
+        "description": "Hitta en park och ta en hetssnus.",
+        "color": "none",
+        "symbol": "none",
+        "price": "none"
+    },
+    {
+        "id": 18,
+        "name": "Karlavägen",
+        "description": "Åk dit och ta en enhet!",
+        "color": "orange",
+        "symbol": "none",
+        "price": "3.600 poäng"
+    },
+    {
+        "id": 19,
+        "name": "Narvavägen",
+        "description": "Åk dit och ta en enhet!",
+        "color": "orange",
+        "symbol": "none",
+        "price": "4.000 poäng"
+    },
+    {
+        "id": 20,
+        "name": "Fri parkering",
+        "description": "none",
+        "color": "none",
+        "symbol": "redcar.png",
+        "price": "none"
+    },
+
+
+
+    {
+        "id": 21,
+        "name": "Strandvägen",
+        "description": "Åk dit och ta en enhet!",
+        "color": "red",
+        "symbol": "none",
+        "price": "4.400 poäng"
+    },
+    {
+        "id": 22,
+        "name": "Chans",
+        "description": "none",
+        "color": "none",
+        "symbol": "questionmark.png",
+        "price": "none"
+    },
+    {
+        "id": 23,
+        "name": "Kungsträdgården",
+        "description": "Åk dit och ta en enhet!",
+        "color": "red",
+        "symbol": "none",
+        "price": "4.400 poäng"
+    },
+    {
+        "id": 24,
+        "name": "Hamngatan",
+        "description": "Åk dit och ta en enhet!",
+        "color": "red",
+        "symbol": "none",
+        "price": "4.800 poäng"
+    },
+    {
+        "id": 25,
+        "name": "Centralstationen",
+        "description": "Åk dit och ta en enhet!",
+        "color": "none",
+        "symbol": "train.png",
+        "price": "4.000 poäng"
+    },
+    {
+        "id": 26,
+        "name": "Vasagatan",
+        "description": "Åk dit och ta en enhet!",
+        "color": "yellow",
+        "symbol": "none",
+        "price": "5.200 poäng"
+    },
+    {
+        "id": 27,
+        "name": "Kungsgatan",
+        "description": "Åk dit och ta en enhet!",
+        "color": "yellow",
+        "symbol": "none",
+        "price": "5.200 poäng"
+    },
+    {
+        "id": 28,
+        "name": "Vattenledningsverket",
+        "description": "Ta ett glas vatten.",
+        "color": "yellow",
+        "symbol": "hose.png",
+        "price": "3.000 poäng"
+    },
+
+    {
+        "id": 29,
+        "name": "Stureplan",
+        "description": "Åk dit och ta en enhet!",
+        "color": "yellow",
+        "symbol": "none",
+        "price": "5.600 poäng"
+    },
+    {
+        "id": 30,
+        "name": "Gå i fängelse",
+        "description": "none",
+        "color": "none",
+        "symbol": "none",
+        "price": "none"
+    },
+    {
+        "id": 31,
+        "name": "Gustav Adolfs Torg",
+        "description": "Åk dit och ta en enhet!",
+        "color": "green",
+        "symbol": "none",
+        "price": "6.000 poäng"
+    },
+    {
+        "id": 32,
+        "name": "Drottninggatan",
+        "description": "Åk dit och ta en enhet!",
+        "color": "green",
+        "symbol": "none",
+        "price": "4.000 poäng"
+    },
+    {
+        "id": 33,
+        "name": "Allmänning",
+        "description": "Hitta en park och ta en hetssnus.",
+        "color": "none",
+        "symbol": "none",
+        "price": "none"
+    },
+    {
+        "id": 34,
+        "name": "Diplomatstaden",
+        "description": "Åk dit och ta en enhet!",
+        "color": "green",
+        "symbol": "none",
+        "price": "6.400 poäng"
+    },
+    {
+        "id": 35,
+        "name": "Norra station",
+        "description": "Åk dit och ta en enhet!",
+        "color": "none",
+        "symbol": "train.png",
+        "price": "4.000 poäng"
+    },
+    {
+        "id": 36,
+        "name": "Chans",
+        "description": "none",
+        "color": "none",
+        "symbol": "questionmark.png",
+        "price": "none"
+    },
+    {
+        "id": 37,
+        "name": "Centrum",
+        "description": "Åk dit och ta en enhet!",
+        "color": "darkblue",
+        "symbol": "none",
+        "price": "7.000 poäng"
+    },
+    {
+        "id": 38,
+        "name": "Betala lyxskatt",
+        "description": "None",
+        "color": "darkblue",
+        "symbol": "none",
+        "price": "2.000 poäng"
+    },
+    {
+        "id": 39,
+        "name": "Norrmalmstorg",
+        "description": "Åk dit och ta en enhet!",
+        "color": "darkblue",
+        "symbol": "none",
+        "price": "8.000 poäng"
+    }
+]
